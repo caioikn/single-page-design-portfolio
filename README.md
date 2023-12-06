@@ -34,9 +34,9 @@ Este é um projeto de single page desenvolvido em React e JavaScript, criado par
    ```
 
 ## 🔗 Links
-- 
-- 
-- Clique [aqui](https://github.com/caioikn/calculadora-imc/archive/main/single-page-design-portfolio.zip) para baixar os arquivos.
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/single-page-design-portfolio-with-carousel-QB11s0PgpI)
+- [Deploy](https://single-page-design-portfolio-henna.vercel.app/)
+- [Baixar arquivos](https://github.com/caioikn/calculadora-imc/archive/main/single-page-design-portfolio.zip)
 
 ## 🧑🏻‍💻 Autor
 **Desenvolvido por [Caio](https://www.linkedin.com/in/caioikena/)** 💙
